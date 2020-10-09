@@ -8,7 +8,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url('https://pixabay.com/get/57e8d6454f5aae14f1dc8460da29317e173fd6e4505675_640.jpg') bottom no-repeat;
+    background: url('https://images.unsplash.com/photo-1583189560522-2765131529a8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80') bottom no-repeat;
     background-size: cover;
 }
 
